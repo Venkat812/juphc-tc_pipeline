@@ -2,4 +2,10 @@ cURL Command:
 curl http://localhost:3000/api/secondchance/items/69ca0e9b2f329b54857b0fc5
 
 Output:
-{"_id":"69ca0e9b2f329b54857b0fc5","name":"Item 1","category":"books","condition":"good","description":"Sample item 1"}%
+{
+  "_id": "69ca0e9b2f329b54857b0fc5",
+  "name": "Item 1",
+  "category": "books",
+  "condition": "good",
+  "description": "Sample item 1"
+}
