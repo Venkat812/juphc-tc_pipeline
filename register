@@ -8,5 +8,5 @@ curl -X POST http://localhost:3000/api/auth/register \
 }'
 
 Output:
-{"message":"Registered"}
+{"message":"User registered successfully"}
 
